@@ -1,0 +1,16 @@
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.exe
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.deps.json
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.runtimeconfig.json
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.runtimeconfig.dev.json
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.dll
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\ref\inclass Interfaces.dll
+C:\Users\Steve\Desktop\inclass Interfaces\bin\Debug\net5.0\inclass Interfaces.pdb
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.csproj.AssemblyReference.cache
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.AssemblyInfoInputs.cache
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.AssemblyInfo.cs
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.dll
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\ref\inclass Interfaces.dll
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.pdb
+C:\Users\Steve\Desktop\inclass Interfaces\obj\Debug\net5.0\inclass Interfaces.genruntimeconfig.cache
