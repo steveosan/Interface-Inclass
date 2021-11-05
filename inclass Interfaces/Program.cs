@@ -23,9 +23,7 @@ namespace inclass_Interfaces
             boss.Weapon.Power = 5;
 
             fighter.Attack(enemy);
-
-
-
+            // IMonster monster = new IMonster();
 
 
         }
