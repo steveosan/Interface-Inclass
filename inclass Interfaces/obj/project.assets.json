@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Steve\\Desktop\\inclass Interfaces\\inclass Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\Steve\\WebstormProjects\\intro to web\\Rustic Roots\\Interface-Inclass\\inclass Interfaces\\inclass Interfaces.csproj",
       "projectName": "inclass Interfaces",
-      "projectPath": "C:\\Users\\Steve\\Desktop\\inclass Interfaces\\inclass Interfaces.csproj",
+      "projectPath": "C:\\Users\\Steve\\WebstormProjects\\intro to web\\Rustic Roots\\Interface-Inclass\\inclass Interfaces\\inclass Interfaces.csproj",
       "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Steve\\Desktop\\inclass Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\Steve\\WebstormProjects\\intro to web\\Rustic Roots\\Interface-Inclass\\inclass Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",
